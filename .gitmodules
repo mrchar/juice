@@ -4,3 +4,6 @@
 [submodule "repo/vitozyf/lucky-draw"]
 	path = repo/vitozyf/lucky-draw
 	url = https://github.com/vitozyf/lucky-draw.git
+[submodule "repo/moshang-xc/lottery"]
+	path = repo/moshang-xc/lottery
+	url = https://github.com/moshang-xc/lottery.git
