@@ -17,4 +17,7 @@
 
 ### 商城
 ### 抽奖
+
+* [fouber/lottery](https://github.com/fouber/lottery) 基于Vue.js的静态抽奖页面  ⭐⭐⭐
+
 ### 叫号

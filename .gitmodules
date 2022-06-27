@@ -1,0 +1,3 @@
+[submodule "repo/fouber/lottery"]
+	path = repo/fouber/lottery
+	url = https://github.com/fouber/lottery.git
