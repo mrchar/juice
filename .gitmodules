@@ -7,3 +7,6 @@
 [submodule "repo/moshang-xc/lottery"]
 	path = repo/moshang-xc/lottery
 	url = https://github.com/moshang-xc/lottery.git
+[submodule "repo/landluck/lucky_wheel"]
+	path = repo/landluck/lucky_wheel
+	url = https://github.com/landluck/lucky_wheel.git
