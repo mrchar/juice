@@ -10,3 +10,6 @@
 [submodule "repo/landluck/lucky_wheel"]
 	path = repo/landluck/lucky_wheel
 	url = https://github.com/landluck/lucky_wheel.git
+[submodule "repo/Beau-zihan/Lottery"]
+	path = repo/Beau-zihan/Lottery
+	url = https://github.com/Beau-zihan/Lottery.git
