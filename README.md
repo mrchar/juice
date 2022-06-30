@@ -19,5 +19,6 @@
 ### 抽奖
 
 * [fouber/lottery](https://github.com/fouber/lottery) 基于Vue.js的静态抽奖页面  ⭐⭐⭐
+* [vitozyf/lucky-draw](https://github.com/vitozyf/lucky-draw) 基于Vue2和ElementUI的抽奖工具 ⭐⭐⭐⭐
 
 ### 叫号
